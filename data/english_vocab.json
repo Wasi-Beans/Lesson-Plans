@@ -1,0 +1,812 @@
+[
+  {
+    "word": "observe",
+    "kidMeaning": "to watch carefully",
+    "useInSentence": "I observe the {topic}."
+  },
+  {
+    "word": "compare",
+    "kidMeaning": "to see how things are the same or different",
+    "useInSentence": "We compare two {topic} things."
+  },
+  {
+    "word": "predict",
+    "kidMeaning": "to guess what may happen",
+    "useInSentence": "I predict what will happen next."
+  },
+  {
+    "word": "explore",
+    "kidMeaning": "to look and try new things",
+    "useInSentence": "We explore with our hands."
+  },
+  {
+    "word": "pattern",
+    "kidMeaning": "a repeating design",
+    "useInSentence": "I made a pattern with blocks."
+  },
+  {
+    "word": "sort",
+    "kidMeaning": "to group by how they are alike",
+    "useInSentence": "We sort by color and size."
+  },
+  {
+    "word": "count",
+    "kidMeaning": "to say numbers in order",
+    "useInSentence": "We count to five together."
+  },
+  {
+    "word": "measure",
+    "kidMeaning": "to find how long or big",
+    "useInSentence": "We measure with cubes."
+  },
+  {
+    "word": "balance",
+    "kidMeaning": "to stay steady",
+    "useInSentence": "I balance the blocks."
+  },
+  {
+    "word": "shape",
+    "kidMeaning": "a form like circle or square",
+    "useInSentence": "I found a new shape."
+  },
+  {
+    "word": "texture",
+    "kidMeaning": "how something feels",
+    "useInSentence": "This has a bumpy texture."
+  },
+  {
+    "word": "soft",
+    "kidMeaning": "not hard",
+    "useInSentence": "The cotton is soft."
+  },
+  {
+    "word": "smooth",
+    "kidMeaning": "not bumpy",
+    "useInSentence": "The rock is smooth."
+  },
+  {
+    "word": "rough",
+    "kidMeaning": "bumpy or not smooth",
+    "useInSentence": "The sandpaper feels rough."
+  },
+  {
+    "word": "float",
+    "kidMeaning": "stay on top of water",
+    "useInSentence": "The leaf can float."
+  },
+  {
+    "word": "sink",
+    "kidMeaning": "go to the bottom",
+    "useInSentence": "The stone will sink."
+  },
+  {
+    "word": "melt",
+    "kidMeaning": "turn from solid to liquid",
+    "useInSentence": "The ice will melt."
+  },
+  {
+    "word": "freeze",
+    "kidMeaning": "turn to ice",
+    "useInSentence": "Water can freeze."
+  },
+  {
+    "word": "sparkle",
+    "kidMeaning": "shine with little lights",
+    "useInSentence": "The glitter can sparkle."
+  },
+  {
+    "word": "shadow",
+    "kidMeaning": "a dark shape made by light",
+    "useInSentence": "I see my shadow."
+  },
+  {
+    "word": "wind",
+    "kidMeaning": "moving air",
+    "useInSentence": "The wind is strong."
+  },
+  {
+    "word": "cloud",
+    "kidMeaning": "white or gray in the sky",
+    "useInSentence": "A cloud moves slowly."
+  },
+  {
+    "word": "rain",
+    "kidMeaning": "water falling from clouds",
+    "useInSentence": "Rain makes puddles."
+  },
+  {
+    "word": "drizzle",
+    "kidMeaning": "light rain",
+    "useInSentence": "A drizzle feels gentle."
+  },
+  {
+    "word": "storm",
+    "kidMeaning": "strong wind and rain",
+    "useInSentence": "A storm can be loud."
+  },
+  {
+    "word": "puddle",
+    "kidMeaning": "small pool of water",
+    "useInSentence": "I jump over a puddle."
+  },
+  {
+    "word": "sprout",
+    "kidMeaning": "a new plant growing",
+    "useInSentence": "A seed can sprout."
+  },
+  {
+    "word": "seed",
+    "kidMeaning": "a tiny part that grows a plant",
+    "useInSentence": "The seed is small."
+  },
+  {
+    "word": "root",
+    "kidMeaning": "part of plant under ground",
+    "useInSentence": "Roots drink water."
+  },
+  {
+    "word": "stem",
+    "kidMeaning": "the plant's stalk",
+    "useInSentence": "The stem stands tall."
+  },
+  {
+    "word": "leaf",
+    "kidMeaning": "green part of a plant",
+    "useInSentence": "A leaf is flat."
+  },
+  {
+    "word": "petal",
+    "kidMeaning": "colored part of a flower",
+    "useInSentence": "A petal is soft."
+  },
+  {
+    "word": "harvest",
+    "kidMeaning": "to gather crops",
+    "useInSentence": "We harvest corn."
+  },
+  {
+    "word": "community",
+    "kidMeaning": "people who live and work together",
+    "useInSentence": "Our community helps."
+  },
+  {
+    "word": "tradition",
+    "kidMeaning": "something we do again each year",
+    "useInSentence": "We have a tradition."
+  },
+  {
+    "word": "respect",
+    "kidMeaning": "to be kind and careful",
+    "useInSentence": "We show respect."
+  },
+  {
+    "word": "cooperate",
+    "kidMeaning": "to work together",
+    "useInSentence": "We cooperate as a team."
+  },
+  {
+    "word": "share",
+    "kidMeaning": "to let others use too",
+    "useInSentence": "I share the crayons."
+  },
+  {
+    "word": "listen",
+    "kidMeaning": "to pay attention with ears",
+    "useInSentence": "I listen to the story."
+  },
+  {
+    "word": "focus",
+    "kidMeaning": "to pay attention",
+    "useInSentence": "I focus on my work."
+  },
+  {
+    "word": "curious",
+    "kidMeaning": "wanting to know more",
+    "useInSentence": "I am curious today."
+  },
+  {
+    "word": "brave",
+    "kidMeaning": "not scared to try",
+    "useInSentence": "I feel brave."
+  },
+  {
+    "word": "proud",
+    "kidMeaning": "happy with what you did",
+    "useInSentence": "I am proud of my art."
+  },
+  {
+    "word": "gentle",
+    "kidMeaning": "soft and careful",
+    "useInSentence": "Be gentle with the book."
+  },
+  {
+    "word": "stretch",
+    "kidMeaning": "to make longer",
+    "useInSentence": "We stretch our arms."
+  },
+  {
+    "word": "march",
+    "kidMeaning": "to walk with steps",
+    "useInSentence": "We march to music."
+  },
+  {
+    "word": "rhythm",
+    "kidMeaning": "a beat in music",
+    "useInSentence": "I clap the rhythm."
+  },
+  {
+    "word": "dance",
+    "kidMeaning": "move to music",
+    "useInSentence": "We dance together."
+  },
+  {
+    "word": "echo",
+    "kidMeaning": "a sound that repeats",
+    "useInSentence": "I hear an echo."
+  },
+  {
+    "word": "notice",
+    "kidMeaning": "to see something",
+    "useInSentence": "I notice a change."
+  },
+  {
+    "word": "describe",
+    "kidMeaning": "tell about it",
+    "useInSentence": "I describe what I see."
+  },
+  {
+    "word": "increase",
+    "kidMeaning": "to get bigger",
+    "useInSentence": "The number can increase."
+  },
+  {
+    "word": "decrease",
+    "kidMeaning": "to get smaller",
+    "useInSentence": "The pile can decrease."
+  },
+  {
+    "word": "same",
+    "kidMeaning": "not different",
+    "useInSentence": "These are the same."
+  },
+  {
+    "word": "different",
+    "kidMeaning": "not the same",
+    "useInSentence": "This one is different."
+  },
+  {
+    "word": "tiny",
+    "kidMeaning": "very small",
+    "useInSentence": "The ant is tiny."
+  },
+  {
+    "word": "huge",
+    "kidMeaning": "very big",
+    "useInSentence": "That is huge!"
+  },
+  {
+    "word": "between",
+    "kidMeaning": "in the middle of two things",
+    "useInSentence": "Stand between the cones."
+  },
+  {
+    "word": "above",
+    "kidMeaning": "higher than",
+    "useInSentence": "The bird is above."
+  },
+  {
+    "word": "below",
+    "kidMeaning": "lower than",
+    "useInSentence": "The worm is below."
+  },
+  {
+    "word": "next to",
+    "kidMeaning": "beside",
+    "useInSentence": "Sit next to me."
+  },
+  {
+    "word": "behind",
+    "kidMeaning": "at the back",
+    "useInSentence": "Hide behind the chair."
+  },
+  {
+    "word": "in front",
+    "kidMeaning": "at the front",
+    "useInSentence": "Stand in front of the line."
+  },
+  {
+    "word": "circle",
+    "kidMeaning": "round shape",
+    "useInSentence": "I drew a circle."
+  },
+  {
+    "word": "square",
+    "kidMeaning": "four equal sides",
+    "useInSentence": "A square block."
+  },
+  {
+    "word": "triangle",
+    "kidMeaning": "three sides",
+    "useInSentence": "A triangle has 3 sides."
+  },
+  {
+    "word": "rectangle",
+    "kidMeaning": "four sides, two long",
+    "useInSentence": "A rectangle is long."
+  },
+  {
+    "word": "safety",
+    "kidMeaning": "staying safe",
+    "useInSentence": "We practice safety."
+  },
+  {
+    "word": "healthy",
+    "kidMeaning": "good for our bodies",
+    "useInSentence": "Healthy food helps."
+  },
+  {
+    "word": "nutrition",
+    "kidMeaning": "food that helps us grow",
+    "useInSentence": "Nutrition gives energy."
+  },
+  {
+    "word": "energy",
+    "kidMeaning": "power to move",
+    "useInSentence": "I have lots of energy."
+  },
+  {
+    "word": "hydration",
+    "kidMeaning": "drinking water to help body",
+    "useInSentence": "Hydration helps us feel good."
+  },
+  {
+    "word": "turtle",
+    "kidMeaning": "a slow animal with a shell",
+    "useInSentence": "The turtle moves slowly."
+  },
+  {
+    "word": "eagle",
+    "kidMeaning": "a large bird",
+    "useInSentence": "The eagle flies high."
+  },
+  {
+    "word": "bear",
+    "kidMeaning": "a big animal",
+    "useInSentence": "A bear can growl."
+  },
+  {
+    "word": "rabbit",
+    "kidMeaning": "a fast animal",
+    "useInSentence": "A rabbit can hop."
+  },
+  {
+    "word": "deer",
+    "kidMeaning": "an animal with legs",
+    "useInSentence": "A deer can run."
+  },
+  {
+    "word": "fish",
+    "kidMeaning": "an animal that swims",
+    "useInSentence": "A fish swims in water."
+  },
+  {
+    "word": "river",
+    "kidMeaning": "moving water",
+    "useInSentence": "The river flows."
+  },
+  {
+    "word": "mountain",
+    "kidMeaning": "a very high hill",
+    "useInSentence": "The mountain is tall."
+  },
+  {
+    "word": "valley",
+    "kidMeaning": "low land between hills",
+    "useInSentence": "We see the valley."
+  },
+  {
+    "word": "sun",
+    "kidMeaning": "bright star in the sky",
+    "useInSentence": "The sun is warm."
+  },
+  {
+    "word": "moon",
+    "kidMeaning": "light in the night sky",
+    "useInSentence": "The moon is round."
+  },
+  {
+    "word": "star",
+    "kidMeaning": "tiny lights in the sky",
+    "useInSentence": "A star shines."
+  },
+  {
+    "word": "sky",
+    "kidMeaning": "the space above us",
+    "useInSentence": "The sky is blue."
+  },
+  {
+    "word": "earth",
+    "kidMeaning": "the ground and our planet",
+    "useInSentence": "Earth is our home."
+  },
+  {
+    "word": "rock",
+    "kidMeaning": "a hard stone",
+    "useInSentence": "The rock is heavy."
+  },
+  {
+    "word": "sand",
+    "kidMeaning": "tiny grains",
+    "useInSentence": "Sand slips through fingers."
+  },
+  {
+    "word": "clay",
+    "kidMeaning": "soft dirt for shaping",
+    "useInSentence": "Clay can be shaped."
+  },
+  {
+    "word": "pottery",
+    "kidMeaning": "clay bowls and pots",
+    "useInSentence": "Pottery can be painted."
+  },
+  {
+    "word": "feather",
+    "kidMeaning": "light bird piece",
+    "useInSentence": "A feather is soft."
+  },
+  {
+    "word": "drum",
+    "kidMeaning": "a music instrument",
+    "useInSentence": "We tap the drum."
+  },
+  {
+    "word": "song",
+    "kidMeaning": "music with words",
+    "useInSentence": "We sing a song."
+  },
+  {
+    "word": "story",
+    "kidMeaning": "words that tell about something",
+    "useInSentence": "I like this story."
+  },
+  {
+    "word": "happy",
+    "kidMeaning": "feeling good",
+    "useInSentence": "I feel happy."
+  },
+  {
+    "word": "sad",
+    "kidMeaning": "feeling not happy",
+    "useInSentence": "I feel sad."
+  },
+  {
+    "word": "angry",
+    "kidMeaning": "feeling mad",
+    "useInSentence": "I feel angry."
+  },
+  {
+    "word": "calm",
+    "kidMeaning": "peaceful and quiet",
+    "useInSentence": "I feel calm."
+  },
+  {
+    "word": "excited",
+    "kidMeaning": "happy and ready",
+    "useInSentence": "I feel excited."
+  },
+  {
+    "word": "frustrated",
+    "kidMeaning": "upset when it's hard",
+    "useInSentence": "I feel frustrated."
+  },
+  {
+    "word": "friendly",
+    "kidMeaning": "kind to others",
+    "useInSentence": "Be friendly."
+  },
+  {
+    "word": "patient",
+    "kidMeaning": "able to wait",
+    "useInSentence": "I can be patient."
+  },
+  {
+    "word": "kind",
+    "kidMeaning": "nice and caring",
+    "useInSentence": "Kind words help."
+  },
+  {
+    "word": "helpful",
+    "kidMeaning": "ready to help",
+    "useInSentence": "I am helpful."
+  },
+  {
+    "word": "together",
+    "kidMeaning": "as a group",
+    "useInSentence": "We work together."
+  },
+  {
+    "word": "alone",
+    "kidMeaning": "by yourself",
+    "useInSentence": "I can work alone."
+  },
+  {
+    "word": "build",
+    "kidMeaning": "make something",
+    "useInSentence": "I build a tower."
+  },
+  {
+    "word": "create",
+    "kidMeaning": "make something new",
+    "useInSentence": "I create art."
+  },
+  {
+    "word": "imagine",
+    "kidMeaning": "make pictures in your mind",
+    "useInSentence": "I imagine a story."
+  },
+  {
+    "word": "practice",
+    "kidMeaning": "do again to get better",
+    "useInSentence": "We practice writing."
+  },
+  {
+    "word": "review",
+    "kidMeaning": "look again",
+    "useInSentence": "We review our learning."
+  },
+  {
+    "word": "celebrate",
+    "kidMeaning": "be happy about",
+    "useInSentence": "We celebrate our work."
+  },
+  {
+    "word": "question",
+    "kidMeaning": "something you ask",
+    "useInSentence": "I have a question."
+  },
+  {
+    "word": "answer",
+    "kidMeaning": "what you say back",
+    "useInSentence": "I have an answer."
+  },
+  {
+    "word": "detail",
+    "kidMeaning": "a small part",
+    "useInSentence": "I notice a detail."
+  },
+  {
+    "word": "beginning",
+    "kidMeaning": "the start",
+    "useInSentence": "At the beginning..."
+  },
+  {
+    "word": "middle",
+    "kidMeaning": "the center part",
+    "useInSentence": "In the middle..."
+  },
+  {
+    "word": "ending",
+    "kidMeaning": "the last part",
+    "useInSentence": "At the ending..."
+  },
+  {
+    "word": "character",
+    "kidMeaning": "a person/animal in a story",
+    "useInSentence": "The character is brave."
+  },
+  {
+    "word": "setting",
+    "kidMeaning": "where a story happens",
+    "useInSentence": "The setting is outside."
+  },
+  {
+    "word": "problem",
+    "kidMeaning": "something wrong",
+    "useInSentence": "The problem is rain."
+  },
+  {
+    "word": "solution",
+    "kidMeaning": "a way to fix it",
+    "useInSentence": "The solution is a coat."
+  },
+  {
+    "word": "sequence",
+    "kidMeaning": "the order of events",
+    "useInSentence": "Tell the sequence."
+  },
+  {
+    "word": "first",
+    "kidMeaning": "number one",
+    "useInSentence": "First we wash hands."
+  },
+  {
+    "word": "next",
+    "kidMeaning": "after that",
+    "useInSentence": "Next we line up."
+  },
+  {
+    "word": "last",
+    "kidMeaning": "the end",
+    "useInSentence": "Last we clean up."
+  },
+  {
+    "word": "sound",
+    "kidMeaning": "what you hear",
+    "useInSentence": "I hear a sound."
+  },
+  {
+    "word": "loud",
+    "kidMeaning": "strong sound",
+    "useInSentence": "The drum is loud."
+  },
+  {
+    "word": "quiet",
+    "kidMeaning": "soft sound",
+    "useInSentence": "We are quiet."
+  },
+  {
+    "word": "whisper",
+    "kidMeaning": "talk softly",
+    "useInSentence": "We whisper."
+  },
+  {
+    "word": "giggle",
+    "kidMeaning": "small laugh",
+    "useInSentence": "I giggle."
+  },
+  {
+    "word": "stomp",
+    "kidMeaning": "step hard",
+    "useInSentence": "We stomp."
+  },
+  {
+    "word": "tiptoe",
+    "kidMeaning": "walk quietly",
+    "useInSentence": "We tiptoe."
+  },
+  {
+    "word": "safe",
+    "kidMeaning": "not dangerous",
+    "useInSentence": "We stay safe."
+  },
+  {
+    "word": "careful",
+    "kidMeaning": "move slowly and safely",
+    "useInSentence": "Be careful."
+  },
+  {
+    "word": "clean",
+    "kidMeaning": "not dirty",
+    "useInSentence": "We clean up."
+  },
+  {
+    "word": "dirty",
+    "kidMeaning": "needs washing",
+    "useInSentence": "My hands are dirty."
+  },
+  {
+    "word": "wash",
+    "kidMeaning": "clean with water",
+    "useInSentence": "We wash hands."
+  },
+  {
+    "word": "dry",
+    "kidMeaning": "not wet",
+    "useInSentence": "The towel is dry."
+  },
+  {
+    "word": "wet",
+    "kidMeaning": "has water",
+    "useInSentence": "My shoes are wet."
+  },
+  {
+    "word": "steam",
+    "kidMeaning": "hot water in air",
+    "useInSentence": "Steam rises."
+  },
+  {
+    "word": "glow",
+    "kidMeaning": "shine softly",
+    "useInSentence": "The fire can glow."
+  },
+  {
+    "word": "warm",
+    "kidMeaning": "a little hot",
+    "useInSentence": "The sun feels warm."
+  },
+  {
+    "word": "cool",
+    "kidMeaning": "a little cold",
+    "useInSentence": "The shade is cool."
+  },
+  {
+    "word": "hot",
+    "kidMeaning": "very warm",
+    "useInSentence": "The soup is hot."
+  },
+  {
+    "word": "cold",
+    "kidMeaning": "not warm",
+    "useInSentence": "The ice is cold."
+  },
+  {
+    "word": "season",
+    "kidMeaning": "time of year",
+    "useInSentence": "Winter is a season."
+  },
+  {
+    "word": "spring",
+    "kidMeaning": "season with flowers",
+    "useInSentence": "Spring brings flowers."
+  },
+  {
+    "word": "summer",
+    "kidMeaning": "hot season",
+    "useInSentence": "Summer is sunny."
+  },
+  {
+    "word": "autumn",
+    "kidMeaning": "season when leaves change",
+    "useInSentence": "Autumn has colors."
+  },
+  {
+    "word": "winter",
+    "kidMeaning": "cold season",
+    "useInSentence": "Winter can snow."
+  },
+  {
+    "word": "snow",
+    "kidMeaning": "frozen rain",
+    "useInSentence": "Snow is white."
+  },
+  {
+    "word": "ice",
+    "kidMeaning": "frozen water",
+    "useInSentence": "Ice is slippery."
+  },
+  {
+    "word": "slippery",
+    "kidMeaning": "easy to slide",
+    "useInSentence": "The ice is slippery."
+  },
+  {
+    "word": "sticky",
+    "kidMeaning": "stays attached",
+    "useInSentence": "Tape is sticky."
+  },
+  {
+    "word": "stretchy",
+    "kidMeaning": "can stretch",
+    "useInSentence": "Putty is stretchy."
+  },
+  {
+    "word": "heavy",
+    "kidMeaning": "weighs a lot",
+    "useInSentence": "This rock is heavy."
+  },
+  {
+    "word": "light",
+    "kidMeaning": "not heavy",
+    "useInSentence": "This feather is light."
+  },
+  {
+    "word": "tall",
+    "kidMeaning": "high",
+    "useInSentence": "The tower is tall."
+  },
+  {
+    "word": "short",
+    "kidMeaning": "not tall",
+    "useInSentence": "The pencil is short."
+  },
+  {
+    "word": "wide",
+    "kidMeaning": "side to side",
+    "useInSentence": "The road is wide."
+  },
+  {
+    "word": "narrow",
+    "kidMeaning": "not wide",
+    "useInSentence": "The path is narrow."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "tewa": "Ti un sengí thamuu?",
+    "english": "Good morning",
+    "whenToUse": "greeting"
+  },
+  {
+    "tewa": "Bí ts'ywaveh",
+    "english": "Everybody come inside",
+    "whenToUse": "command"
+  },
+  {
+    "tewa": "Hân un Khảwä?",
+    "english": "What's your name",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Bi kwo?ò",
+    "english": "Everybody sit down.",
+    "whenToUse": "command"
+  },
+  {
+    "tewa": "Ti un p'oe sáh?",
+    "english": "Are you thisty?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Ti un háh sen?",
+    "english": "Are you hungry?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Ti un kay hán?",
+    "english": "Are you tired?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Wáy piyeh á un män?",
+    "english": "Where are you going?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Tò ắn uvi yíyá/tádá un muu?",
+    "english": "Who's your mother/father?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Háy háa dán un t'ay yi?",
+    "english": "Why are you angry?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Sengídi ho í muu i!",
+    "english": "Good-bye and have safe trip all.",
+    "whenToUse": "greeting"
+  },
+  {
+    "tewa": "Hân nan bi khây máa?",
+    "english": "What are you going to do?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Ti naa gí un k'uuteh muu i?",
+    "english": "Are you going to the store for me?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Ti náva piyeh un muu i?",
+    "english": "Are you going to the fields/garden?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Ti háawi un ehkwéla piyeh woe",
+    "english": "mắắ Did they you any homework?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Bi khây amí ehkéwla gí!",
+    "english": "Get ready for school all!",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "Bi t'oeyan mí!",
+    "english": "All listen/behave.",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "Ti un ádâa pûn da?",
+    "english": "Do you want to go for a ride?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Naví k'ema piyeh o män.",
+    "english": "I'm going to my friends",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "Naa dáy shadeh t'oe.",
+    "english": "I'm going to dance.",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "O shadeh da?",
+    "english": "I want to dance.",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "Naa o män!",
+    "english": "I'm going.",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "Ti un kay hán wên?",
+    "english": "Were you tired?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Hé?",
+    "english": "dí chà mắá i! Give me some money!",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "Hé?",
+    "english": "o käveh! Come here!",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "Wáy gán un thaa?",
+    "english": "Where do you live?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Hán un ắn?",
+    "english": "How are you?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Hé?",
+    "english": "naa powa! He/she came!",
+    "whenToUse": "phrase"
+  },
+  {
+    "tewa": "Wắhắa un sôe?",
+    "english": "Where did you grow up/raised at?",
+    "whenToUse": "question"
+  },
+  {
+    "tewa": "Wáhắa wí ya un muu?",
+    "english": "Where are you from?",
+    "whenToUse": "question"
+  }
+]
