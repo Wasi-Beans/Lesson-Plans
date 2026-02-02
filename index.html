@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Head Start Lesson Plan Generator</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="style.css" />
+  <meta name="theme-color" content="#0b5fff" />
+</head>
+<body>
+<header class="topbar">
+  <div class="topbar__title">Lesson Plan Generator</div>
+  <div class="topbar__actions">
+    <button id="btnPrint" class="btn btn--ghost" title="Print the open plan">Print</button>
+    <button id="btnExport" class="btn btn--ghost" title="Download the open plan JSON">Export JSON</button>
+  </div>
+</header>
+
+<main class="container">
+  <section class="card">
+    <h2>Create a plan</h2>
+
+    <div class="grid">
+      <label class="field">
+        <span>Mode</span>
+        <select id="mode">
+          <option value="week" selected>Whole Week (Mon–Fri)</option>
+          <option value="day">Single Day</option>
+        </select>
+      </label>
+
+      <label class="field">
+        <span>Topic / Theme</span>
+        <input id="topic" placeholder="e.g., Weather, Turtle Dance, Corn, Pottery" />
+      </label>
+
+      <label class="field">
+        <span>Classroom</span>
+        <input id="classroom" placeholder="e.g., Classroom 3 (Pôeyeh Íveh)" />
+      </label>
+
+      <label class="field">
+        <span>Age Group</span>
+        <select id="ageGroup">
+          <option>Pre-K</option>
+          <option>3-year-old</option>
+          <option>Mixed (3–5)</option>
+        </select>
+      </label>
+
+      <label class="field" id="dateField">
+        <span>Date (Single Day)</span>
+        <input id="date" type="date" />
+      </label>
+
+      <label class="field" id="weekOfField">
+        <span>Week Of (Monday)</span>
+        <input id="weekOf" type="date" />
+      </label>
+    </div>
+
+    <details class="details" id="booksPanel" open>
+      <summary><strong>Books (one per day)</strong> — optional</summary>
+      <p class="muted">Leave blank to auto-pick from a built-in list. You can type any title you want.</p>
+      <div class="grid grid--books">
+        <label class="field"><span>Monday</span><input id="bookMon" placeholder="Book title (Mon)"></label>
+        <label class="field"><span>Tuesday</span><input id="bookTue" placeholder="Book title (Tue)"></label>
+        <label class="field"><span>Wednesday</span><input id="bookWed" placeholder="Book title (Wed)"></label>
+        <label class="field"><span>Thursday</span><input id="bookThu" placeholder="Book title (Thu)"></label>
+        <label class="field"><span>Friday</span><input id="bookFri" placeholder="Book title (Fri)"></label>
+      </div>
+    </details>
+
+    <div class="row">
+      <button id="btnGenerate" class="btn">Generate Plan</button>
+      <button id="btnClear" class="btn btn--ghost">Clear Form</button>
+      <span id="status" class="muted"></span>
+    </div>
+
+    <p class="muted note">
+      This app saves plans on your phone (local storage). It also tracks used Tewa words/phrases + English vocab to reduce repeats.
+    </p>
+  </section>
+
+  <section class="card">
+    <h2>Saved plans</h2>
+    <div class="row">
+      <input id="search" placeholder="Search saved plans…" />
+      <button id="btnResetVocab" class="btn btn--ghost" title="Clears vocab history (keeps saved plans)">Reset vocab history</button>
+    </div>
+    <div id="savedList" class="list"></div>
+  </section>
+
+  <section class="card" id="viewerCard">
+    <h2>Open plan</h2>
+    <div id="planViewer" class="viewer muted">Generate or open a saved plan to view it here.</div>
+  </section>
+</main>
+
+<footer class="footer">
+  <span class="muted">PWA ready • Add to Home Screen on iPhone</span>
+</footer>
+
+<script src="app.js" type="module"></script>
+</body>
+</html>
